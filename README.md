@@ -1,5 +1,5 @@
 # 20x20 mm 5V to 1V8
-Well researched 5V to 1V8 buck converter. Not yet validated.
+Well researched 5V to 1V8 buck converter. Not manufactured / validated (yet).
 
 Full BOM available in the schematic.
 
