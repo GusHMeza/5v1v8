@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS62827ADMQR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-08-01-09:20:41)
+    (mountForm default
+        (footprintRef "TPS62827ADMQR")
+        (spec "System")
+    )
+)

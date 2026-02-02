@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS62827ADMQR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2021-08-01 09:20:41
+Downloaded=2025-02-05 16:37:04
+3D=Y

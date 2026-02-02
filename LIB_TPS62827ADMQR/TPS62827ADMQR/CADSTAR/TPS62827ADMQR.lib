@@ -1,0 +1,16 @@
+.TPS62827ADMQR :1 ;Step Down DC DC Converter
+TPS62827ADMQR
+*STM IC
+*NGS
+*PLB 1="EN" 2="PG" 3="FB" 4="GND" 5="SW" 6="VIN"
+*MXP 6
+*DFN TPS62827ADMQR
+~!Mouser Part Number (595-TPS62827ADMQR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62827ADMQR?qs=DRkmTr78QATCWGi3%2FWmmPQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS62827ADMQR)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (TPS62827ADMQR)
+TPS62827ADMQR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

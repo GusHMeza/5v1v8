@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS62827ADMQR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS62827ADMQR" (!) = "", "TPS62827ADMQR", "Other", "595-TPS62827ADMQR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS62827ADMQR?qs=DRkmTr78QATCWGi3%2FWmmPQ%3D%3D", "Step Down DC DC Converter", "", "1 mm"
+END_PART
+
+END.

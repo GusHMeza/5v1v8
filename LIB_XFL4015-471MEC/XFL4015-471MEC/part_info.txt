@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XFL4015-471MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2018-11-09 01:14:48
+Downloaded=2025-02-05 16:36:03
+3D=Y
